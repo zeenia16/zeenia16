@@ -1,4 +1,4 @@
-## Hi there 
+## Hi there 👋
 
 🎓 I’m a Pre-Engineering student  
 💻 I’m also learning and building in Web Development  
