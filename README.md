@@ -19,5 +19,6 @@
 
 ### 📫 Connect with me
 - GitHub: zeenia16
+- LinkedIn: Zeenia Maheen
 - Email:  mzeenia500@gmail.com
 ---
